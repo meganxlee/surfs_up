@@ -21,5 +21,5 @@ results = session.query(Measurement.date, Measurement.prcp).filter(extract('mont
 ```
 
 ```
-results = session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date) == 6).all()
+results = session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date) == 12).all()
 ```
