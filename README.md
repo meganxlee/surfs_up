@@ -8,8 +8,8 @@ The purpose of this analysis is to provide more information about temperature tr
 - For December temperatures, the average is 71.04 degrees with a min of 56 and a high of 83 degrees. 
 - The average temperature is around 4 degrees higher in June than December and there is a 8 degrees difference in the minimum temperature, but only a 2 degrees difference in the maximum temperature. 
 
-![June_Temps](analysis/June_Temps.png)
-![Dec_Temps](analysis/Dec_Temps.png)
+![June_Temps](Resources/June_Temps.png)
+![Dec_Temps](Resources/Dec_Temps.png)
 
 ## Summary
 
